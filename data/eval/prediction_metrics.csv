@@ -1,0 +1,2 @@
+﻿model,jumlah_query,top1_accuracy,hit_at_5_accuracy,macro_precision_at_5,macro_recall_at_5,macro_f1_at_5
+TF-IDF + Cosine Similarity,10,1.0,1.0,0.2,1.0,0.33333333333333337

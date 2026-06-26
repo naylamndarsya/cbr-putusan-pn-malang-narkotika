@@ -1,0 +1,62 @@
+[
+  {
+    "query_id": "q01",
+    "query": "Kasus narkotika PN Malang ekstasi narkotika jual beli perantara 1 (satu) Pocket yang berisikan 16 (enam belas) butir diduga Narkotika jenis Ekstasi berbentuk tablet berwarna hijau dengan bentuk tulang yang bertuliskan ?Heineken? yang dibungkus dengan sebuah plastic klip bening (berat bersih 6, 590 gram); 1 (satu)",
+    "ground_truth_case_id": "case_001",
+    "ground_truth_label": "jual_beli_perantara"
+  },
+  {
+    "query_id": "q02",
+    "query": "Kasus narkotika PN Malang Pasal 609 Ayat (2) huruf a sabu narkotika memiliki menyimpan menguasai 42 (emat puluh dua) pocket plastic klip bening narkotika jenis sabu dengan berat 16,5 gram (berat bersih 8,62 gram yang disisihkan untuk pemeriksaan laboratoris sejumlah 0,84 gram sisa berat bersih keseluruhan adalah 7,78 gram); 1 (satu) pack plastic",
+    "ground_truth_case_id": "case_005",
+    "ground_truth_label": "memiliki_menyimpan_menguasai"
+  },
+  {
+    "query_id": "q03",
+    "query": "Kasus narkotika PN Malang sabu narkotika jual beli perantara 1 (satu) unit handphone merek Samsung warna blue black dengan simcard nomor 081973240922 ; Dirampas Untuk Negara ; 2 (dua) plastik klip berisi sabu dan 1 (satu) plastik berisi 14 (empat belas) plastik klip yang masing-masing beisi sabu dengan total b",
+    "ground_truth_case_id": "case_009",
+    "ground_truth_label": "jual_beli_perantara"
+  },
+  {
+    "query_id": "q04",
+    "query": "Kasus narkotika PN Malang Pasal 114 ayat (2) sabu narkotika jual beli perantara 2 (dua) bungkus plastik klip berisi narkotika Gol. I jenis sabu dengan berat bersih keseluruhan 148,94 gram; 1 (satu) buah plastik bekas bungkus snack; 1 (satu) unit handphone merek Realme warna merah muda beserta simcard no. 083153885026; Dirampas u",
+    "ground_truth_case_id": "case_013",
+    "ground_truth_label": "jual_beli_perantara"
+  },
+  {
+    "query_id": "q05",
+    "query": "Kasus narkotika PN Malang Pasal 609 ayat (1) huruf a sabu dobel l obat keras narkotika memiliki menyimpan menguasai - 1 (satu) microtube berisi 1 (satu) plastik berisi sabu dengan berat berih 0,31 gram ; - 2 (dua) botol plastic warna putih berisi 1000 (seribu) butir dobel L (pil warna putih berlogo ��); - 13 (tiga belas) botol plastik warna putih berisi 1000 (seri",
+    "ground_truth_case_id": "case_017",
+    "ground_truth_label": "memiliki_menyimpan_menguasai"
+  },
+  {
+    "query_id": "q06",
+    "query": "Kasus narkotika PN Malang narkotika jual beli perantara 1 satu poket Narkotika jenis Shabu dengan berat 457 gram Netto 1 satu buah potongan Lakban warna hitam yang tertempel 1 satu buah potongan tisu warna putih Dirampas Untuk Dimusnahkan 1 satu unit sepeda motor Warna Biru Merk Honda sesuai dengan BPKB N",
+    "ground_truth_case_id": "case_021",
+    "ground_truth_label": "jual_beli_perantara"
+  },
+  {
+    "query_id": "q07",
+    "query": "Kasus narkotika PN Malang ganja narkotika memiliki menyimpan menguasai 1 (satu) buah paket JNE dengan nomor 044360000577124 atas nama Pengirim DANIEL SILALAHI, Alamat Parapat, Bandar Simalungun Sumatra Utara, Nomor Handphone 081937963470 dan atas nama Penerima ARDIANSYAH, Alamat Indomaret MT. Haryono 2 Jl. MT. Haryono N",
+    "ground_truth_case_id": "case_025",
+    "ground_truth_label": "memiliki_menyimpan_menguasai"
+  },
+  {
+    "query_id": "q08",
+    "query": "Kasus narkotika PN Malang sabu ganja narkotika jual beli perantara 1 3 tiga bungkus plastik klip berisi Narkotika Gol I jenis sabu dengan berat bersih keseluruhan 903 gram 2 1 satu bungkus plastik klip berisi Narkotika Gol I jenis ganja dengan berat bersih 317 gram 3 1 satu bungkus plastik klip kemasan kosong 4 1 sa",
+    "ground_truth_case_id": "case_029",
+    "ground_truth_label": "jual_beli_perantara"
+  },
+  {
+    "query_id": "q09",
+    "query": "Kasus narkotika PN Malang sabu narkotika jual beli perantara 47 (empat puluh tujuh) bungkus plastik klip berisi Narkotika Gol. I jenis sabu; 1 (satu) unit alat timbangan digital; 1 (satu) unit handphone merk Oppo warna hijau. Dirampas untuk dimusnahkan",
+    "ground_truth_case_id": "case_033",
+    "ground_truth_label": "jual_beli_perantara"
+  },
+  {
+    "query_id": "q10",
+    "query": "Kasus narkotika PN Malang sabu narkotika lainnya 1 (satu) bungkus plastic klip berukuran sedang berisi 10 (sepuluh) bungkus plastic klip kecil berisi narkotika jenis sabu dengan berat bersih 5,12 gram; 1 (satu) buah tas pinggang warna hitam; 1 (satu) buah handphone merk Vivo warna Biru dengan simca",
+    "ground_truth_case_id": "case_037",
+    "ground_truth_label": "lainnya"
+  }
+]
