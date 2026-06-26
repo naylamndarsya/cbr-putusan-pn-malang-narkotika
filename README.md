@@ -42,7 +42,8 @@ Jalankan dari folder utama repository:
 ```bash
 python src/01_prepare_case_base.py
 python src/02_case_representation.py
-python src/03_retrieval.py --query "terdakwa menguasai sabu dan didakwa narkotika" --k 5
+python src/02b_missing_value_check.py
+python src/03_retrieval.py --query "terdakwa menguasai sabu narkotika golongan I" --k 5
 python src/04_predict.py --query "terdakwa menjadi perantara jual beli sabu" --k 5
 python src/05_evaluation.py
 ```
