@@ -1,0 +1,6 @@
+﻿,precision,recall,f1-score,support
+jual_beli_perantara,0.8,1.0,0.8888888888888888,8.0
+memiliki_menyimpan_menguasai,0.0,0.0,0.0,2.0
+accuracy,0.8,0.8,0.8,0.8
+macro avg,0.4,0.5,0.4444444444444444,10.0
+weighted avg,0.64,0.8,0.711111111111111,10.0

@@ -1,0 +1,2 @@
+﻿model,task,jumlah_data,jumlah_train,jumlah_test,accuracy,macro_precision,macro_recall,macro_f1,weighted_precision,weighted_recall,weighted_f1
+TF-IDF + Linear SVM Baseline,classification baseline menggunakan label_perbuatan,40,30,10,0.8,0.4,0.5,0.4444444444444444,0.64,0.8,0.711111111111111

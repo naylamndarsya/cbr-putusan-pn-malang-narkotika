@@ -42,10 +42,10 @@ Jalankan dari folder utama repository:
 ```bash
 python src/01_prepare_case_base.py
 python src/02_case_representation.py
-python src/02b_missing_value_check.py
-python src/03_retrieval.py --query "terdakwa menguasai sabu narkotika golongan I" --k 5
+python src/03_retrieval.py --query "terdakwa menguasai sabu dan didakwa narkotika" --k 5
 python src/04_predict.py --query "terdakwa menjadi perantara jual beli sabu" --k 5
 python src/05_evaluation.py
+python src/06_svm_baseline.py
 ```
 
 ## Output Utama
@@ -55,6 +55,9 @@ python src/05_evaluation.py
 3. `data/processed/case_solutions.json` berisi mapping solusi/amar putusan.
 4. `data/results/predictions.csv` berisi hasil prediksi solusi dari query uji.
 5. `data/eval/retrieval_metrics.csv` dan `data/eval/prediction_metrics.csv` berisi hasil evaluasi.
+6. data/eval/svm_baseline_metrics.csv berisi evaluasi model pembanding TF-IDF + Linear SVM.
+7. data/eval/svm_classification_report.csv berisi classification report SVM.
+
 
 ## Tahapan CBR
 
